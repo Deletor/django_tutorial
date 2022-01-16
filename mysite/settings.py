@@ -122,4 +122,4 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-CODECOV_TOKEN='c4b6ebe8-424b-4706-909d-2a84c0c9eb76'
+CODECOV_TOKEN = 'c4b6ebe8-424b-4706-909d-2a84c0c9eb76'
